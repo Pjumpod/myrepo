@@ -1,0 +1,14 @@
+Package: JumpodAUTOAGILE
+Version: 0.001
+Architecture: all
+Maintainer: Jumpod Plekhongthu
+Depends: cron, ksh, wget, subversion, samba, apache2
+Priority: optional
+Section: web
+Filename: pool/main/J/JumpodAUTOAGILE/JumpodAUTOAGILE_0.001_all.deb
+Size: 9256
+SHA256: ad5c994eb23296f8eeffb1b5625ada5d94a80d052dcfbe0627133041ead6f960
+SHA1: 23ed5f997193ca765db7f60afb7d7f79acbf86cf
+MD5sum: 68144f0c3eab53c022626b5aff78ae57
+Description: Jumpod's Script to support and automate AUTO AGILE
+

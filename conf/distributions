@@ -1,0 +1,7 @@
+Origin: Jumpod
+Label: Jumpod
+Suite: stable
+Codename: Tum
+Architectures: amd64 i386
+Components: main
+Description: Jumpod Repo

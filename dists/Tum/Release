@@ -1,0 +1,29 @@
+Origin: Jumpod
+Label: Jumpod
+Suite: stable
+Codename: Tum
+Date: Wed, 12 Sep 2018 07:47:54 UTC
+Architectures: amd64 i386
+Components: main
+Description: Jumpod Repo
+MD5Sum:
+ 4b64376535b48eaa03956b7fb4855a91 479 main/binary-amd64/Packages
+ f9055374c2580a67ab0ce6d2d34a1e6d 358 main/binary-amd64/Packages.gz
+ 4bf320771624a72a1ebebce4d8a1df66 106 main/binary-amd64/Release
+ 4b64376535b48eaa03956b7fb4855a91 479 main/binary-i386/Packages
+ f9055374c2580a67ab0ce6d2d34a1e6d 358 main/binary-i386/Packages.gz
+ a7a59c50e07e57ae9ab5c6754ee2a87b 105 main/binary-i386/Release
+SHA1:
+ 7bef491d959f0371f8a018a35ab5d8cfec606ba0 479 main/binary-amd64/Packages
+ cde868e2af2ad70cadd59a68c3285e4a4f4bff5f 358 main/binary-amd64/Packages.gz
+ 09797e74c8354602772e9e1808657fa3db462e29 106 main/binary-amd64/Release
+ 7bef491d959f0371f8a018a35ab5d8cfec606ba0 479 main/binary-i386/Packages
+ cde868e2af2ad70cadd59a68c3285e4a4f4bff5f 358 main/binary-i386/Packages.gz
+ 9edeac779e9df794c21d59db386756c9249e2f19 105 main/binary-i386/Release
+SHA256:
+ 445086b372be25e9ecc62bce5b20a6be54c45c7ece7b1980ea3a216fd0809239 479 main/binary-amd64/Packages
+ 1388bb27331c8ee96affd52d1e1aee37fbb2f53a44dbc04db1f07edf74e21d64 358 main/binary-amd64/Packages.gz
+ 4c92e9b6f6cbb488253e733327a3bd1654bd026cfd7ad9e52b8413472d570805 106 main/binary-amd64/Release
+ 445086b372be25e9ecc62bce5b20a6be54c45c7ece7b1980ea3a216fd0809239 479 main/binary-i386/Packages
+ 1388bb27331c8ee96affd52d1e1aee37fbb2f53a44dbc04db1f07edf74e21d64 358 main/binary-i386/Packages.gz
+ a517a7502dd4d7d91ec9b8964764f9024fae47e99db47efd1de13b6e93c88931 105 main/binary-i386/Release
