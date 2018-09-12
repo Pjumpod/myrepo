@@ -1,3 +1,6 @@
+-----BEGIN PGP SIGNED MESSAGE-----
+Hash: SHA256
+
 Origin: Jumpod
 Label: Jumpod
 Suite: stable
@@ -27,3 +30,17 @@ SHA256:
  ba8674831a83806fa60fe0292cbadbdec6e2e78298e380e86b4a5c75621d0770 479 main/binary-i386/Packages
  1141760c29d51b45dd262adebd0ee689c933894d34dbd5d50436a7bfb8e24f9e 358 main/binary-i386/Packages.gz
  a517a7502dd4d7d91ec9b8964764f9024fae47e99db47efd1de13b6e93c88931 105 main/binary-i386/Release
+-----BEGIN PGP SIGNATURE-----
+
+iQGzBAEBCAAdFiEEjhUdGCFENAPaCiZCwBEpuqXjvbEFAluY5VUACgkQwBEpuqXj
+vbGMSgv/VZ9yJ29SiAbExpukROw7vsL7GAUEGpzTGYZRhafu/R6xrIhHzhyiz/Wb
+0isF/7CxFSFI8RIyA3GCHhbLQOjUvlHcLyEEa0jPX3qkvgHYYf8nISRjq4S0okf6
+0wC5OHCMHOUs4npUfrQnezFCRqKrdO8hqEixOtxUWBrfR+A1VtkFks5JV/Lrpgdq
+nngpvr9OLffljwx4/bkfw7DNtOAOcQnjjXiSN0TuA8Z8yCscyKc9nT1LwHEBfQ0y
+RozEoaHk/WUldPnI6qLA5Jg0ZjUpyRchZvJMT+m1lux6Jdk9d33AFkbbv3ygiHkd
+Q8+jVuszRdg+F1m5q0NcFQJXjgC8x+nhOklGUaieVxd3NYKOw9OU2Yx8T/Uxb2YG
+b93Rm9DPbVl+z7IpnRinoDzQwYtdVfvKOGO0dXOAVFI0jbaPX/X1hC/ikzIDuj5L
+xmT9Y8aUNv7bS7JuZsKNZzVuCFb0itwEqZoXucRzkhNxFD4Mg6BFNRpGSUQytaib
+6prBfYbh
+=Q4oO
+-----END PGP SIGNATURE-----
